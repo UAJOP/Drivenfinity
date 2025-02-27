@@ -74,4 +74,4 @@ We welcome contributions! Feel free to submit pull requests or report issues.
 
 ## 📜 License
 
-This project is licensed under the ** UnLicense**.
+This project is licensed under the **UnLicense**.
